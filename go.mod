@@ -1,4 +1,4 @@
-module github.com/russellcardullo/terraform-provider-pingdom
+module github.com/bowenyango/terraform-provider-pingdom
 
 go 1.14
 
